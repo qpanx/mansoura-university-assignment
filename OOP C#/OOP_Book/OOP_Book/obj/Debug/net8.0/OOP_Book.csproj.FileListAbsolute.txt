@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\obj\Debug\net8.0\OOP_Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\obj\Debug\net8.0\OOP_Book.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\obj\Debug\net8.0\OOP_Book.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\obj\Debug\net8.0\OOP_Book.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\bin\Debug\net8.0\OOP_Book.exe
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\bin\Debug\net8.0\OOP_Book.deps.json
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\bin\Debug\net8.0\OOP_Book.runtimeconfig.json
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\bin\Debug\net8.0\OOP_Book.dll
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\bin\Debug\net8.0\OOP_Book.pdb
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\obj\Debug\net8.0\OOP_Book.dll
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\obj\Debug\net8.0\refint\OOP_Book.dll
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\obj\Debug\net8.0\OOP_Book.pdb
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\obj\Debug\net8.0\OOP_Book.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\OOP_Book\OOP_Book\obj\Debug\net8.0\ref\OOP_Book.dll
